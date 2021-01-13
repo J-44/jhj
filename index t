@@ -1,0 +1,32 @@
+<html>
+
+<head>
+    <title>Hobby</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Pro">
+</head>
+<ul class= "menu">
+    <li class="links"><a href="#by">HOBBY</a></li>
+    <li class="links"><a href="#wor">MY WORK</a></li>
+
+</ul>
+
+<body>
+    <section id="by"><img src="IMG_20191101_162931.jpg" />
+        <h1>My hobby is painting</h1>
+        <br>
+        <br>
+        <p>Painting has been a hobby I have embraced for quite some time. Ever since I took the paintbrush and just crafted something on paper, I have never looked back on it. Painting has been a hobby that gives me joy because I can draw my imaginations into an art piece and make the best out of it.</p><br><br>
+    </section>
+    <br>
+    <br>
+
+    <section id="wor"><br><br>
+        <h2>My Work</h2>
+        <br>
+        <br>
+        <p>The first and foremost duty of a student is to study. Besides this, every student should do some social work for the development of society. A student should have many qualities which will attract others to follow him. A student must be well disciplined, well behaved. He should be respectful to his superiors. He must be upright and truthful in his activities. A student should try to develop his moral character. He/She should perform some social work to develop the society. A student can play an important role to remove illiteracy, to wipe out insanitation and remove superstitions and social evils. We may call a student an ideal student when he/she will possess the above qualities. He should also develop the habit of helping others. He must not be selfish. A selfish man is harmful to society. I, therefore, essential, a student should learn how to do good to others.</p>
+        <br>
+        <br>
+    </section>
+</body></html>
